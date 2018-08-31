@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('../node_modules/angular-notifier/styles.css'); /* => angular notification css*/ 
+
+.AccueilTitle{
+    text-align:center; font-weight:bold; font-size:24px;
+}
+.SousLigneTitre{
+    background: #00bcd4; width:50px; height:1px; text-align:center; margin-left:auto;margin-right:auto;
+}
+
+
